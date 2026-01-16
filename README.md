@@ -1,4 +1,8 @@
 # Competitive Programming 🚀
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![std](https://img.shields.io/badge/std-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+
 Welcome to my repository! This is where I store my solutions and library for Competitive Programming.
 I use C++ to solve problems and implement algorithms. This repository helps me review my code and prepare for contests.
 
