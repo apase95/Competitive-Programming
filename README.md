@@ -7,30 +7,30 @@ Welcome to my repository! This is where I store my solutions and library for Com
 I use C++ to solve problems and implement algorithms. This repository helps me review my code and prepare for contests.
 
 ## 🛠️ About The Code
-- **Language:** C++.
-- **Template:** I use a custom template (macro) to code faster.
-- **Style:** Competitive programming style (short variable names, fast I/O).
+- **Language:** C++
+- **Template:** I use a custom template (macro) to code faster
+- **Style:** Competitive programming style (short variable names, fast I/O)
 
 ## 📂 Repository Structure
 Here is an overview of the folders in this repository:
 
 ### 1. Data Structures 🌳
-- 📂 **SEGMENT TREE:** Code for Segment Trees (Point update, Range update, Lazy propagation).
-- 📂 **FENWICK - BIT:** Binary Indexed Tree implementations.
-- 📂 **RMQ - SPARSE_TABLE:** Range Minimum Query using Sparse Table.
+- 📂 **SEGMENT TREE:** Code for Segment Trees (Point update, Range update, Lazy propagation)
+- 📂 **FENWICK - BIT:** Binary Indexed Tree implementations
+- 📂 **RMQ - SPARSE_TABLE:** Range Minimum Query using Sparse Table
 
 ### 2. Algorithms 🧠
-- 📂 **GRAPH:** Algorithms for graphs like BFS, DFS, Shortest Path (Dijkstra/Floyd), Bridges, and Spanning Trees.
-- 📂 **DYNAMIC PROGRAMMING:** Classic DP problems (Knapsack, Longest Common Subsequence, Edit Distance).
-- 📂 **STRING MATCHING:** Algorithms for strings (KMP, Z-function, Hashing).
-- 📂 **SIEVE:** Prime, Divisor number generation and factorization.
-- 📂 **ADHOC:** Math problems, Big Numbers, and logic puzzles.
+- 📂 **GRAPH:** Algorithms for graphs like BFS, DFS, Shortest Path (Dijkstra/Floyd), Bridges, and Spanning Trees
+- 📂 **DYNAMIC PROGRAMMING:** Classic DP problems (Knapsack, Longest Common Subsequence, Edit Distance)
+- 📂 **STRING MATCHING:** Algorithms for strings (KMP, Z-function, Hashing)
+- 📂 **SIEVE:** Prime, Divisor number generation and factorization
+- 📂 **ADHOC:** Math problems, Big Numbers, and logic puzzles
 
 ### 3. Problem Sets 🏆
-- 📂 **CSES Problems:** My solutions for the CSES Problem Set.
+- 📂 **CSES Problems:** My solutions for the CSES Problem Set
 
 ## 👨‍💻 Author
-- **GitHub:** apase95
-- **Handle:** noobyhandsome
+- Email: hodtduy.work@gmail.com
+- Linked In: [hodangthaiduy](https://www.linkedin.com/in/duy-ho-dang-thai-a33159383/)
 --- ----
 ## Happy Coding! 💻
